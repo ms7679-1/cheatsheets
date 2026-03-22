@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Drafted initial implementation plan for v2
 - Cleaned up old debug logs
+
+## 2026-03-23
+- Added basic retry logic for network requests
+- Added CONTRIBUTING.md stub
