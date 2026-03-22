@@ -28,3 +28,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Noted known limitation in docs
 - Reviewed codebase, identified areas for improvement
+
+## 2026-03-23
+- Fixed minor edge case in input handling
