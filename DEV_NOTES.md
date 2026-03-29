@@ -42,3 +42,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reviewed security headers configuration
 - Consolidated duplicate helper functions
+
+## 2026-03-30
+- Pinned dependency versions for reproducibility
+- Reviewed security headers configuration
