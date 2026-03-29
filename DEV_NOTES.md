@@ -38,3 +38,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Removed unused variable declarations
 - Added inline documentation for core functions
+
+## 2026-03-30
+- Reviewed security headers configuration
+- Consolidated duplicate helper functions
